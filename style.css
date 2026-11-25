@@ -1,0 +1,124 @@
+        body { 
+            background: red; 
+            margin: 0;
+            font-family: "Helvetica", sans-serif;
+            color:#666
+        }
+
+        div {background: white;}
+
+        .primer {
+            background: #fff; 
+            height: 40px;
+            overflow: hidden;
+        }
+
+        .segon {
+            background: #6C3; 
+            background-image: url(img/img-hero-full-list.png);
+            background-repeat:no-repeat;
+            background-position: 400px,0;
+            height: 550px;
+        }
+
+        .tercer {
+            background: #fff;
+            height: 641px;
+            background-image: url(img/allinone.jpg);
+            background-repeat:no-repeat;
+            background-position: 400px,0;
+            height: 641px;
+        }
+
+        .quatre {
+            background: #333333; 
+            background-image: url(img/curator-short.png);
+            background-repeat:no-repeat;
+            background-position: 400px,0;
+            height: 500px;
+            color: #fff;
+        }
+
+        .cinc {
+            background: #eeecee;
+            background-image: url(img/img-hero-full-list.png);
+            background-repeat:no-repeat;
+            background-position: 400px,0;
+            height: 550px;
+        }
+
+        .sis{
+            background: #6C3; 
+            background-image: url(img/mobile-share.png);
+            background-repeat:no-repeat;
+            background-position: 400px 13px;
+            height: 550px;
+
+        }
+
+        .set{
+            background: #ccc;
+            background-image: url(img/anywhere.png);
+            background-repeat:no-repeat;
+            background-position: 400px,0;
+            height: 643px;
+
+        }
+
+        .vuit{
+            background: #333333; 
+            height: 200px;
+            text-align: center;
+            padding: 8px
+        }
+
+        h1{
+            width: 350px;
+            margin: 0; 
+            padding: 25px;
+            text-align:center;
+        }
+
+        p{
+            font-size: 18px;
+            line-height: 22px;
+            width: 350px;
+            margin:0;
+            padding:5px 25px; 
+            text-align: justify;
+        }
+
+        a{
+            font-size: 13px;
+            margin: 20px
+        }
+
+        li{
+            display:inline-block;
+            padding: 7px;
+            background-color: #6C3;
+            color: #fff;
+            height: 30px;
+            border-radius: 4px;
+        }
+        
+        ul{
+            display: inline;
+        
+        }
+
+    .torna{
+    width: 100px;
+    height: 100px;
+    background: purple;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    border-radius: 50%;
+    padding: 0;
+    box-shadow: 5px 5px 5px black; 
+    text-align: center;
+    line-height: 120px;
+    color: #fff;
+    font-size: 72px;
+    }
